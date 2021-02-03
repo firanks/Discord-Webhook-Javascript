@@ -1,0 +1,20 @@
+{
+  "name": "jswebhookdiscord",
+  "version": "1.0.0",
+  "description": "Very Simple Script for Discord webhooks.",
+  "main": "javascriptwebhook.js",
+  "dependencies": {
+    "discord-webhook": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node javascriptwebhook.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/firanks/Discord-Webhook-Javascript"
+  },
+  "author": "firanks",
+  "license": "ISC"
+}
